@@ -44,8 +44,9 @@ clear - очистка терминала
 [Markdoun] [https://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print#link11]   
 [Git][https://habr.com/ru/articles/541258/]
 
-[настройка репозитория][https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository]
-
+[настройка репозитория][https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository] 
+ 
+[сохранение изменений][https://www.atlassian.com/ru/git/tutorials/saving-changes]
 
 ## *Ошибки*
 1.![изображение не найдено](e325.jpg)
