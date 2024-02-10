@@ -24,6 +24,8 @@ git remote add origin https://github.com/krotik4264/test8.git - скопиров
 git branch -M master - обозначаем ветвь которую связываем с удаленным репозиторием
 git push -u origin master
 
+Удаление связи с гитхаб git remote remove origin        
+
 чтобы выйти из команды git log нажать q    
 clear - очистка терминала   
 .gitignore.md - записать  в файл имена файлов для иннорирования. 
