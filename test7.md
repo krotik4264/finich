@@ -16,7 +16,8 @@ git branch имя ветви - создать новую ветвь.
 git branch -d branch имя ветви - удалить ветвь с именем.  
 git branch -b имя ветви  - создать ветвь и перейти на нее.    
 git merge branch имя ветви - слияние ветви с основной.  
-git log --graph  - вывод журнала изменений с графом.  
+git log --graph  - вывод журнала изменений с графом. 
+git log --oneline --graph  -     
 
 #### Привязка локального репозитория в гитхаб
 …or push an existing repository from the command line
